@@ -1,0 +1,8 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"DIST1",1," Sensor de distância ultrassônico (quatro pinos)"
+"R1",1," Fotorresistor"
+"SEN1",1," Sensor de umidade do solo"
+"U2",1,"Baseado em PCF8574, 32 (0x20) LCD 16 x 2 (I2C)"
+"U3",1," Sensor de temperatura [TMP36]"
+"R2",1,"1 kΩ Resistor"
