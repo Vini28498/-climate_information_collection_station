@@ -1,7 +1,8 @@
 # Estação Coletora de informações climáticas
 
-Projeto de pós gradução em Engenharia de Banco de Dados pela UNICAMP
+Projeto de pós graduação em Engenharia de Banco de Dados pela UNICAMP.
 
+Link do Thinkercad:
 https://www.tinkercad.com/things/gmoeN8sQ7ZN-projeto-1-unicamp-vinicius-h-o?sharecode=1iNlHT2OEtJkDeXIny-4BOXFDUbVHKOo7K24yjtTKzw
 
 
