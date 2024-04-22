@@ -1,4 +1,4 @@
-# Estação Coletora de informações climáticas
+# Estação Coletora de Informações Climáticas
 
 Projeto de pós graduação em Engenharia de Banco de Dados pela UNICAMP.
 
