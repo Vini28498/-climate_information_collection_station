@@ -17,7 +17,7 @@ https://wokwi.com/projects/396268385770455041
 
 ![Projeto 2 - Vinícius H O Circuito](https://github.com/Vini28498/climate_information_collection_station/assets/63620777/a0ae45b5-45c3-4bbe-9284-6a223f06ba0d)
 
-# Projeto 2
+# Projeto 3
 ThingSpeak:
 https://thingspeak.com/channels/2542717
 
